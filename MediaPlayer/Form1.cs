@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MediaPlayer
 {
-    public partial class Form1 : Form
+    public partial class panelSideMenu : Form
     {
-        public Form1()
+        public panelSideMenu()
         {
             InitializeComponent();
         }
