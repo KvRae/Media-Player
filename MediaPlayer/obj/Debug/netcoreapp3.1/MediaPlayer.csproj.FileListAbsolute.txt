@@ -1,0 +1,15 @@
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.exe
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.deps.json
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.runtimeconfig.json
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.runtimeconfig.dev.json
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.dll
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.pdb
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.csproj.AssemblyReference.cache
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.panelSideMenu.resources
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.AssemblyInfoInputs.cache
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.AssemblyInfo.cs
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.dll
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.pdb
+C:\Users\karam\Documents\GitHub\MediaPlayer\Media-Player\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.genruntimeconfig.cache
