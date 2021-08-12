@@ -52,7 +52,6 @@ namespace MediaPlayer
             this.button2 = new System.Windows.Forms.Button();
             this.btnMedia = new System.Windows.Forms.Button();
             this.panelLogo = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.panelPlayback = new System.Windows.Forms.Panel();
             this.panelChildForm = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -102,7 +101,6 @@ namespace MediaPlayer
             // panelToolsSubMenu
             // 
             this.panelToolsSubMenu.BackColor = System.Drawing.Color.Gray;
-            this.panelToolsSubMenu.Controls.Add(this.panel2);
             this.panelToolsSubMenu.Controls.Add(this.button11);
             this.panelToolsSubMenu.Controls.Add(this.button12);
             this.panelToolsSubMenu.Controls.Add(this.button13);
@@ -404,13 +402,6 @@ namespace MediaPlayer
             this.panelLogo.Size = new System.Drawing.Size(229, 100);
             this.panelLogo.TabIndex = 0;
             // 
-            // panel2
-            // 
-            this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(250, 125);
-            this.panel2.TabIndex = 5;
-            // 
             // panelPlayback
             // 
             this.panelPlayback.BackColor = System.Drawing.Color.Indigo;
@@ -488,7 +479,6 @@ namespace MediaPlayer
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button btnPlaylist;
         private System.Windows.Forms.Button btnHelp;
-        private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panelPlayback;
         private System.Windows.Forms.Panel panelChildForm;
         private System.Windows.Forms.PictureBox pictureBox1;
