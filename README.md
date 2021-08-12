@@ -1,2 +1,3 @@
 # Media-Player
- Media Player using WinForm
+ Media Player app that plays different types of media files
+ 
